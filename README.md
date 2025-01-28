@@ -10,11 +10,7 @@
 
 <br/>
 
-<div align="center">
-  <picture>
-    <img align="right" alt="Coding Animation" src="https://i.giphy.com/Y4ak9Ki2GZCbJxAnJD.webp" width="240" width="100%" style="border-radius: 10px;">
-  </picture>
-</div>
+  <img align="right" alt="Coding Animation" src="https://i.giphy.com/Y4ak9Ki2GZCbJxAnJD.webp" width="240" width="100%" style="border-radius: 10px;">
 
 
 ### 👨‍💻 About Me
