@@ -10,7 +10,7 @@
 
 <br/>
 
-<img align="right" alt="Coding Animation" src="[https://img-blog.csdnimg.cn/2019122617442217.gif](https://media0.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/200.gif?cid=6c09b952dfdnp86dsekzw88vru9oubp2othm8nk08ed9hekt&ep=v1_gifs_search&rid=200.gif&ct=g)" width="240"/>
+<img align="right" alt="Coding Animation" src="https://i.giphy.com/Y4ak9Ki2GZCbJxAnJD.webp" width="240"/>
 
 ### 👨‍💻 About Me
 
