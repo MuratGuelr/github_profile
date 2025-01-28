@@ -50,7 +50,7 @@
 
 ## 🐍 Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/MuratGuelr/MuratGuelr/output/github-contribution-grid-snake.svg)
+![Snake animation](github-contribution-grid-snake.svg)
 
 <br/>
 
